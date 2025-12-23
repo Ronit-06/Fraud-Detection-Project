@@ -7,8 +7,6 @@ The app allows users to enter transaction details (distance, typical spending ra
 - A **Fraudulent / Legit** prediction
 - A simple **risk level** indicator
 
-> Dataset: Kaggle “Credit Card Fraud” (features described below).  
-
 ---
 
 ## ✨ Features
