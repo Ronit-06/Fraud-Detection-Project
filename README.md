@@ -53,6 +53,10 @@ The dataset contains transaction-level features:
 
 ---
 
+## 📸 Application Screenshots
+
 <img width="818" height="906" alt="image" src="https://github.com/user-attachments/assets/429bc588-b0da-492a-baea-408062bf4563" />
+
+
 <img width="716" height="918" alt="image" src="https://github.com/user-attachments/assets/3ecf7aa2-3cb9-4464-90f3-ffa7141753b3" />
 
