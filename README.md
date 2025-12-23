@@ -14,7 +14,7 @@ The app allows users to enter transaction details (distance, typical spending ra
 - End-to-end ML workflow in a **Jupyter Notebook**
   - Data loading and basic exploration
   - Train/test split with stratification
-  - Preprocessing using `scikit-learn` Pipelines 
+  - Preprocessing using scikit-learn Pipelines 
   - Logistic Regression model
   - Evaluation using classification report, confusion matrix, and PR-AUC
 - **Streamlit** web app
